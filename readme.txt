@@ -1,0 +1,3 @@
+1.usi_proxy.exe(またはpython版の場合はusi_proxy.pyとusi_proxy.bat)とengine_path.txtをusiエンジンと同じフォルダに置く
+2.engine_path.txtにusiエンジンのファイル名を書く
+3.実行ファイル版の場合はusi_proxy.exe、python版の場合はusi_proxy.batをGUIに登録する

@@ -1,0 +1,1 @@
+call python3 usi_proxy.py
